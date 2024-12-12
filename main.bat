@@ -1,5 +1,14 @@
+:: github-commit-max 
+:: PatoFlamejanteTV/UltimateQuack
+
+@echo off
+
+:: ugly
+start generate.bat
+start generate.bat
+start generate.bat
+start generate.bat
+
 :main
-git commit --allow-empty -m "1 MORE TO THE LIST 🥳"
-git push 
-echo +1 TO THE LIST 🥳
+git push
 goto main
