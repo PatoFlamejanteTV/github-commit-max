@@ -2,6 +2,7 @@
 :: PatoFlamejanteTV/UltimateQuack
 
 @echo off
+TITLE Main.BAT
 
 :: ugly
 start generate.bat
