@@ -2,5 +2,5 @@
 TITLE Generate.BAT
 
 :main
-git commit --allow-empty -m "1 MORE TO THE LIST 🥳"
+git commit --allow-empty --allow-empty-message --no-edit
 goto main
